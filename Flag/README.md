@@ -38,4 +38,10 @@ Së fundi bëjmë shfaqjen e imazhit të procesuar:
 imshow(flag);
 ```
 
+Për dëgjimin e himnit:
+```octave
+[y,fs] = audioread("../assets/Flag/anthem.oga");
+sound(y, fs);
+```
+
 ![Flag](../assets/Flag/flag.png)
