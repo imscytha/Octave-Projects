@@ -1,6 +1,3 @@
-<head>
-  <link rel="stylesheet" href="assets/styles.css">
-</head>
 <p align="center"><img src="assets/uni-logo.png" alt="image_description" style="width: 60%;">
 </p>
 <h1 align="center">Projektet</h1>
