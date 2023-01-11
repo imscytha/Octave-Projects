@@ -1,7 +1,7 @@
-<head>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
+<!-- <head> -->
+<!--   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> -->
+<!--   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> -->
+<!-- </head> -->
 
 <p align="center"><img src="../assets/uni-logo.png" alt="image_description" style="width: 60%;">
 <h1 align="center">Implementimi i Sistemit të Lorenz-it në MATLAB/GNU Octave</h1>
