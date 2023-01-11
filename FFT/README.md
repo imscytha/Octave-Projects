@@ -27,7 +27,7 @@ Transformimi Diskret i Fourier-it transformon një sekuencë (varg) me $n$ numra
 
 > $$
 > \large
-> x_k=\sum_{n=0}^{n-1}x_n \cdot e^{-\frac{i2\pi}{N}kn} = x_k=\sum_{n=0}^{n-1}x_n \cdot \left[\cos(\frac{2\pi}{N}kn)\ - i\ \sin(\frac{2\pi}{N}kn)\right],
+> x_k=\sum_{n=0}^{n-1}x_n \cdot e^{-\frac{i2\pi}{N}kn} =\sum_{n=0}^{n-1}x_n \cdot \left[\cos(\frac{2\pi}{N}kn)\ - i\ \sin(\frac{2\pi}{N}kn)\right],
 > $$
 
 ## Implementimi
