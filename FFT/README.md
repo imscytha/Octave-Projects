@@ -23,7 +23,7 @@ Rrjedhimisht Inversi i Transformimit të Fourier-it merr formën:
 
 ### Transformimi Diskret i Fourier-it (Discrete Fourier Transform - DFT)
 
-Transformimi Diskret i Fourier-it transformon një sekuencë (varg) me $n$ numra kompleks $\mathbb{C}$
+Transformimi Diskret i Fourier-it transformon një sekuencë (varg) me $n$ numra kompleks ($\mathbb{C}$)
 
 <!-- ${\{\mathbf{x}_n\}:=x_0,x_1,\ldots ,x_{N- 1}}$ në një varg tjetër numrash kompleks, $\{\mathbf {X} _{k}\}:=X_0,X_1,\ldots ,X_{N-1}$, e cila definohet nga formula: -->
 
