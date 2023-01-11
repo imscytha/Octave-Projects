@@ -1,3 +1,7 @@
+<head>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+</head>
+
 <p align="center"><img src="../assets/uni-logo.png" alt="image_description" style="width: 60%;">
 <h1 align="center">Implementimi i Sistemit të Lorenz-it në MATLAB/GNU Octave</h1>
 

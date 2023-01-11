@@ -1,3 +1,7 @@
+<head>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+</head>
+
 <p align="center"><img src="../assets/uni-logo.png" alt="image_description" style="width: 60%;">
 <h1 align="center">Algoritmi i Transformimit të shpejtë të Fourier-it (Fast Fourier Transform Algorithm) në MATLAB/GNU Octave</h1>
 
@@ -23,7 +27,7 @@ Rrjedhimisht Inversi i Transformimit të Fourier-it merr formën:
 
 ### Transformimi Diskret i Fourier-it (Discrete Fourier Transform - DFT)
 
-Transformimi Diskret i Fourier-it transformon një sekuencë (varg) me $n$ numra kompleks ($\mathbb{C}$) ${\{\mathbf{x}_n\}:=x_0,x_1,\ldots ,x_{N- 1}}$ në një varg tjetër numrash kompleks, $\{\mathbf {X} _{k}\}:=X_0,X_1,\ldots ,X_{N-1}$, e cila definohet nga formula:
+Transformimi Diskret i Fourier-it transformon një sekuencë (varg) me $n$ numra kompleks ($\mathbb{C}$) ${\displaystyle \left\{\mathbf {x} _{n}\right\}:=x_{0},x_{1},\ldots ,x_{N- 1}}$ në një varg tjetër numrash kompleks, ${\displaystyle \left\{\mathbf {X} _{k}\right\}:=X_{0},X_{1},\ldots ,X_{N-1 },}$ e cila definohet nga formula:
 
 > $$
 > \large
